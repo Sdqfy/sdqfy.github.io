@@ -2,4 +2,7 @@ body{
     background-color: lightblue;
 }
 p {color:green;}
-img{width : 80px; height: 80px; border-radius:80px;
+img {
+    width: 80px; 
+     height: 80px; 
+     border-radius:50px;
